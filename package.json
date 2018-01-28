@@ -1,0 +1,28 @@
+{
+  "name": "electron_try",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/houx15/electron_try.git"
+  },
+  "keywords": [
+    "Electron",
+    "react"
+  ],
+  "author": "HOU Yuxin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/houx15/electron_try/issues"
+  },
+  "homepage": "https://github.com/houx15/electron_try#readme",
+  "devDependencies": {
+    "electron": "^1.7.11",
+    "electron-packager": "^10.1.2",
+    "electron-reload": "^1.2.2"
+  }
+}
